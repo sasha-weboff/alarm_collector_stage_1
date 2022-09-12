@@ -20,6 +20,8 @@ take history alarm from 2 different files
 search for special alarm
 output how many alarms was per last 24hours
 
+hello
+
 '''
 
 #  Alarm Collector Stage 1 implementation
