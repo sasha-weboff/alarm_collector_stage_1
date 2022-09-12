@@ -1,0 +1,2 @@
+# alarm_collector_stage_1
+Alarm collector stage 1 there is .txt file with site name (siteList.txt) user can modify it script takes sites from this file and search for alarm in hisrory alarm alarm name is fixed open file(.csv) with history alarm search for alarm which we are looking for output result is whether alarm raised if yes how many alarm was and for what sites example output as below: Alarm AAA raised N times at DD.MM.YYYY site A   1 time  site B   4 times
